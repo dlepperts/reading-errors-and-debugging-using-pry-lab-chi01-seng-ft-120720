@@ -10,6 +10,6 @@ def state_log(star_date)
 end
 
 def engage
-  state_log(star_date)
-  date = generate_star_date
+  return state_log(star_date)
+  return generate_star_date
 end
