@@ -8,3 +8,5 @@ def snake_it_up(string)
     return string
   end
 end
+
+snake_it_up('Danielle')
