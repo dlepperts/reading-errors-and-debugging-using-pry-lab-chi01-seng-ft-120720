@@ -10,4 +10,4 @@ def snake_it_up(string)
   end
 end
 
-snake_it_up('Danielle')
+snake_it_up('Samyl')
