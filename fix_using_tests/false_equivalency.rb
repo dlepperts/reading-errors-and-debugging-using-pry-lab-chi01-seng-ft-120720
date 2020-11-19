@@ -12,7 +12,7 @@ end
 
 def selection(num)
   if num == 1 
-     print "YUM YUM MUNCH MUNCH MUNCH"
+     return "YUM YUM MUNCH MUNCH MUNCH"
   elsif num == 2 
      return "HAM HAM HAM IN MY TUMMY"
   end
