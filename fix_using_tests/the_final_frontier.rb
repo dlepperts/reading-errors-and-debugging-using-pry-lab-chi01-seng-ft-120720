@@ -1,7 +1,8 @@
 require 'pry'
 
 def generate_star_date
-  (rand(100000) + 400000) / 10.0
+  r = (rand(100000) + 400000) / 10.0
+  print r
 end
 
 
@@ -13,3 +14,5 @@ def engage
   date = generate_star_date
   return state_log(date)
 end
+
+generate_star_date
